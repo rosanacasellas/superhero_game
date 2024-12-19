@@ -1,0 +1,151 @@
+Character,Alignment,Universe,Primary Power,Team Affiliation,Arch Enemy,Damage Level,Health Level,Speed Level,Intelligence Level
+Black Widow,Anti-Hero,Marvel,Super Strength,Inhumans,Juggernaut,92,65,52,63
+Flash,Anti-Hero,Marvel,Martial Arts,Legion of Doom,Emma Frost,65,74,54,99
+Emma Frost,Villain,Marvel,Telepathy,Sinister Six,Ghost,74,99,53,93
+Sandman,Anti-Hero,Marvel,Super Strength,Guardians of the Galaxy,Black Adam,96,64,67,83
+Black Widow,Anti-Hero,Marvel,Healing,Justice League,Emma Frost,89,66,80,37
+Scarecrow,Hero,Marvel,Elemental Control,X-Men,Shazam,51,92,78,42
+Poison Ivy,Hero,Marvel,Healing,Avengers,Huntress,55,64,52,91
+Booster Gold,Hero,DC,Healing,Suicide Squad,Wonder Woman,72,98,57,30
+Booster Gold,Hero,Marvel,Shape Shifting,X-Men,Loki,54,72,56,86
+Silver Surfer,Hero,Marvel,Telepathy,Legion of Doom,Professor X,91,76,62,35
+Adam Warlock,Villain,Marvel,Telepathy,Sinister Six,Rhino,88,91,98,67
+Forge,Anti-Hero,DC,Healing,Guardians of the Galaxy,Captain Marvel,76,76,93,74
+Ancient One,Anti-Hero,DC,Shape Shifting,Inhumans,Star-Lord,60,63,45,98
+Morgan le Fay,Hero,Marvel,Healing,Sinister Six,Batgirl,89,78,81,87
+Star-Lord,Anti-Hero,DC,Healing,Inhumans,Polaris,53,51,44,55
+Domino,Villain,DC,Energy Manipulation,Sinister Six,Flash,73,71,67,63
+Lex Luthor,Anti-Hero,DC,Elemental Control,Justice League,Lizard,84,82,79,93
+Klaw,Hero,Marvel,Shape Shifting,Suicide Squad,Booster Gold,80,81,72,46
+MODOK,Villain,DC,Invisibility,Defenders,Ronan,85,72,41,57
+Batgirl,Villain,DC,Elemental Control,Guardians of the Galaxy,Scarlet Witch,51,79,52,33
+Sabretooth,Villain,Marvel,Agility,Justice League,Bishop,68,63,48,34
+Kraven the Hunter,Anti-Hero,DC,Telepathy,Inhumans,Bishop,62,77,95,62
+Monica Rambeau,Villain,DC,Magic,Brotherhood of Mutants,Killer Croc,58,84,70,88
+Zatanna,Anti-Hero,Marvel,Telepathy,Defenders,Shuri,87,72,99,40
+Daredevil,Anti-Hero,DC,Energy Manipulation,X-Men,Black Cat,51,71,66,31
+Vulture,Anti-Hero,DC,Elemental Control,Brotherhood of Mutants,Firestar,52,68,77,65
+Drax,Villain,DC,Telepathy,Defenders,Storm,66,90,79,40
+Ronan,Hero,DC,Telepathy,Legion of Doom,Taskmaster,73,88,41,70
+Spider-Man,Villain,DC,Super Strength,Avengers,Shazam,65,75,40,57
+Beast,Anti-Hero,Marvel,Energy Manipulation,Guardians of the Galaxy,Superman,52,83,98,57
+Darkseid,Hero,DC,Super Strength,Legion of Doom,Blue Beetle,51,59,81,75
+Wolverine,Hero,Marvel,Flight,Justice League,Kraven the Hunter,82,78,54,34
+Deadpool,Anti-Hero,Marvel,Super Strength,Inhumans,Sabretooth,93,71,63,99
+Star-Lord,Villain,DC,Flight,Avengers,Captain Marvel,67,63,92,80
+Constantine,Hero,Marvel,Elemental Control,Sinister Six,Jessica Jones,66,99,100,38
+Sentry,Hero,DC,Magic,X-Men,Sentry,90,58,93,49
+Killer Croc,Villain,Marvel,Shape Shifting,Legion of Doom,War Machine,78,53,50,91
+Jubilee,Hero,Marvel,Energy Manipulation,Sinister Six,Beast,83,62,70,53
+Nightwing,Hero,Marvel,Shape Shifting,Justice League,Red Hood,61,60,67,50
+Wolverine,Anti-Hero,DC,Healing,Defenders,Daredevil,64,82,98,90
+Punisher,Hero,Marvel,Psychic Abilities,Sinister Six,Colossus,96,52,47,71
+Nova,Anti-Hero,DC,Healing,Avengers,Storm,81,96,51,93
+Beast,Hero,Marvel,Weapon Mastery,Defenders,Catwoman,75,93,80,98
+Thanos,Anti-Hero,DC,Invisibility,Avengers,Invisible Woman,99,76,62,71
+Ghost Rider,Hero,Marvel,Magic,Defenders,Nightwing,80,82,44,88
+Kingpin,Anti-Hero,Marvel,Telepathy,X-Men,Kang,90,67,52,78
+Professor X,Anti-Hero,DC,Agility,Avengers,Thanos,76,90,86,48
+Man-Bat,Anti-Hero,DC,Speed,Defenders,Hawkgirl,58,95,99,67
+Doctor Doom,Villain,DC,Elemental Control,Sinister Six,Black Panther,78,89,59,34
+Scarecrow,Hero,Marvel,Flight,Justice League,Gamora,66,80,40,79
+Cable,Anti-Hero,DC,Telepathy,Avengers,Professor X,50,68,40,82
+Ghost,Anti-Hero,Marvel,Shape Shifting,Inhumans,Bane,93,87,78,56
+Aquaman,Hero,DC,Martial Arts,Avengers,Darkseid,100,94,66,52
+Green Lantern,Anti-Hero,DC,Telepathy,Avengers,Bane,79,84,96,43
+Flash,Hero,Marvel,Invisibility,Guardians of the Galaxy,Doctor Doom,91,64,68,84
+Aquaman,Villain,Marvel,Psychic Abilities,Avengers,Hela,66,53,93,56
+Loki,Villain,Marvel,Invisibility,Avengers,Ghost,72,97,67,44
+Cannonball,Anti-Hero,DC,Magic,Defenders,Nova,96,98,40,99
+Mandarin,Anti-Hero,DC,Magic,Legion of Doom,Black Widow,56,87,40,69
+Green Arrow,Hero,Marvel,Weapon Mastery,Defenders,M'Baku,82,69,91,94
+Groot,Anti-Hero,Marvel,Energy Manipulation,Avengers,Valkyrie,52,51,98,41
+Colossus,Hero,Marvel,Elemental Control,Avengers,Black Cat,74,58,74,85
+Vulture,Hero,Marvel,Agility,Legion of Doom,Batman,68,66,63,100
+Rogue,Anti-Hero,DC,Psychic Abilities,Inhumans,Magneto,51,75,44,99
+Bishop,Hero,Marvel,Healing,Defenders,Swamp Thing,80,93,96,57
+Cable,Anti-Hero,Marvel,Intelligence,Justice League,Vulture,82,67,47,77
+Cannonball,Hero,DC,Telepathy,Justice League,Martian Manhunter,81,76,91,51
+Deadpool,Hero,DC,Weapon Mastery,X-Men,Red Hood,51,53,41,43
+Riddler,Anti-Hero,Marvel,Flight,X-Men,MODOK,81,81,99,79
+Doctor Strange,Anti-Hero,Marvel,Agility,Defenders,Captain America,100,63,95,37
+Black Cat,Anti-Hero,DC,Super Strength,X-Men,Sabretooth,62,55,46,71
+Apocalypse,Villain,Marvel,Energy Manipulation,Suicide Squad,Ghost Rider,79,67,54,63
+Captain Marvel,Hero,DC,Psychic Abilities,Legion of Doom,Ronan,73,91,93,50
+Nightwing,Anti-Hero,Marvel,Intelligence,Defenders,Supergirl,66,62,90,46
+Havok,Villain,Marvel,Energy Manipulation,Guardians of the Galaxy,Mystique,56,79,97,75
+Nova,Anti-Hero,Marvel,Energy Manipulation,Justice League,Iron Fist,60,78,48,61
+Iceman,Hero,Marvel,Psychic Abilities,Defenders,Huntress,90,54,43,82
+Punisher,Anti-Hero,Marvel,Elemental Control,Guardians of the Galaxy,Mandarin,58,54,90,67
+The Joker,Anti-Hero,DC,Flight,Justice League,Mysterio,73,79,64,74
+Ant-Man,Anti-Hero,Marvel,Psychic Abilities,Legion of Doom,Mystique,87,78,54,98
+Ant-Man,Hero,Marvel,Invisibility,X-Men,Gamora,64,82,44,55
+Blade,Anti-Hero,DC,Magic,Sinister Six,Thing,62,82,55,91
+Catwoman,Hero,Marvel,Super Strength,Justice League,Iceman,82,54,99,37
+Killer Croc,Hero,Marvel,Intelligence,X-Men,Nebula,60,80,42,84
+Shuri,Villain,DC,Psychic Abilities,Legion of Doom,Invisible Woman,82,75,58,83
+Mr. Fantastic,Anti-Hero,Marvel,Energy Manipulation,Guardians of the Galaxy,Lex Luthor,62,67,96,93
+Swamp Thing,Anti-Hero,Marvel,Super Strength,Justice League,Scarecrow,50,53,92,72
+Havok,Villain,DC,Flight,Suicide Squad,Mandarin,86,50,90,96
+Human Torch,Anti-Hero,Marvel,Intelligence,Defenders,Deadpool,69,77,41,91
+Hawkgirl,Villain,Marvel,Invisibility,X-Men,Human Torch,97,97,86,44
+Sabretooth,Anti-Hero,DC,Psychic Abilities,Inhumans,Morgan le Fay,95,91,64,65
+Rhino,Villain,DC,Speed,Legion of Doom,Electro,94,51,42,73
+Rhino,Hero,Marvel,Shape Shifting,Legion of Doom,Shuri,99,86,50,48
+Nebula,Hero,DC,Healing,X-Men,Hela,53,76,83,93
+Kang,Villain,Marvel,Flight,Justice League,Star-Lord,70,70,55,62
+Mandarin,Villain,Marvel,Shape Shifting,Legion of Doom,Darkseid,80,82,98,94
+Storm,Anti-Hero,DC,Magic,Defenders,Ultron,62,59,45,52
+Doctor Doom,Anti-Hero,Marvel,Healing,Legion of Doom,Mr. Freeze,74,74,77,35
+Shazam,Anti-Hero,DC,Weapon Mastery,Brotherhood of Mutants,Nova,73,93,97,100
+Mr. Freeze,Villain,DC,Telepathy,Suicide Squad,Monica Rambeau,60,80,85,64
+Harley Quinn,Anti-Hero,DC,Healing,X-Men,Mr. Freeze,92,67,76,63
+Swamp Thing,Hero,DC,Shape Shifting,Avengers,Groot,58,89,89,99
+Black Adam,Anti-Hero,DC,Weapon Mastery,Inhumans,Cannonball,55,79,90,53
+Green Goblin,Anti-Hero,Marvel,Invisibility,Avengers,Valkyrie,63,57,42,89
+Wong,Hero,Marvel,Elemental Control,Sinister Six,Sentry,98,66,55,81
+Black Adam,Anti-Hero,DC,Energy Manipulation,X-Men,Blade,79,87,67,37
+Blade,Anti-Hero,Marvel,Healing,Justice League,Poison Ivy,65,84,76,88
+Monica Rambeau,Hero,Marvel,Healing,X-Men,Iron Man,81,60,81,78
+Superman,Anti-Hero,DC,Psychic Abilities,Justice League,Vision,58,50,76,70
+Doctor Octopus,Hero,DC,Agility,Avengers,Constantine,95,92,70,85
+Bishop,Hero,Marvel,Invisibility,Suicide Squad,Man-Bat,94,96,67,63
+Lex Luthor,Anti-Hero,Marvel,Energy Manipulation,Legion of Doom,Apocalypse,83,51,94,94
+Ghost,Villain,DC,Martial Arts,Inhumans,Kingpin,63,83,78,80
+Juggernaut,Villain,DC,Invisibility,Guardians of the Galaxy,Black Adam,67,94,93,91
+Thing,Villain,Marvel,Healing,Justice League,Zatanna,83,71,53,39
+Enchantress,Anti-Hero,Marvel,Speed,X-Men,Havok,59,51,44,48
+Forge,Hero,DC,Intelligence,Brotherhood of Mutants,Aquaman,52,54,83,36
+Silver Surfer,Anti-Hero,Marvel,Weapon Mastery,Justice League,Ant-Man,61,77,83,64
+Storm,Villain,DC,Elemental Control,Legion of Doom,Magneto,72,50,89,60
+Bane,Villain,Marvel,Energy Manipulation,Legion of Doom,Green Lantern,93,62,68,84
+Sandman,Hero,DC,Agility,X-Men,Drax,60,86,46,65
+Wonder Woman,Hero,Marvel,Magic,Suicide Squad,Silver Surfer,50,98,66,36
+M'Baku,Villain,DC,Intelligence,Inhumans,Ancient One,78,99,59,87
+War Machine,Hero,Marvel,Energy Manipulation,Defenders,Iron Fist,65,92,100,99
+Domino,Anti-Hero,Marvel,Intelligence,Sinister Six,Doctor Octopus,67,60,75,58
+Black Panther,Hero,Marvel,Telepathy,Guardians of the Galaxy,Quicksilver,87,89,87,49
+Vision,Hero,Marvel,Psychic Abilities,Avengers,M'Baku,63,89,68,33
+Mr. Freeze,Hero,Marvel,Invisibility,Justice League,Red Skull,74,88,91,94
+Martian Manhunter,Hero,Marvel,Martial Arts,Guardians of the Galaxy,Electro,99,76,72,45
+Quicksilver,Hero,DC,Speed,Legion of Doom,Nebula,92,67,85,60
+Psylocke,Hero,Marvel,Weapon Mastery,Brotherhood of Mutants,Kang,86,94,44,76
+Moon Knight,Hero,Marvel,Psychic Abilities,Sinister Six,Doctor Octopus,70,91,80,78
+Professor X,Villain,DC,Shape Shifting,Brotherhood of Mutants,Ancient One,60,61,64,72
+Magneto,Hero,DC,Flight,Defenders,Zatanna,55,69,48,48
+Green Lantern,Hero,Marvel,Magic,Sinister Six,Morgan le Fay,72,79,65,74
+Loki,Hero,DC,Intelligence,Sinister Six,Venom,75,94,80,47
+Valkyrie,Villain,DC,Martial Arts,Guardians of the Galaxy,Lex Luthor,83,80,48,83
+Blade,Anti-Hero,DC,Elemental Control,Brotherhood of Mutants,Wolverine,71,73,62,90
+Magneto,Villain,DC,Psychic Abilities,Justice League,Venom,81,71,84,74
+The Joker,Anti-Hero,Marvel,Healing,Justice League,Riddler,62,100,44,55
+Thanos,Villain,DC,Agility,Defenders,Wong,65,72,48,60
+Valkyrie,Anti-Hero,Marvel,Healing,Guardians of the Galaxy,Beast,86,83,46,35
+Kingpin,Villain,DC,Shape Shifting,Defenders,Mr. Fantastic,93,70,54,62
+Luke Cage,Villain,Marvel,Agility,Brotherhood of Mutants,Rogue,73,99,75,61
+Firestar,Anti-Hero,Marvel,Telepathy,Brotherhood of Mutants,Red Skull,55,51,97,45
+Colossus,Villain,Marvel,Energy Manipulation,Sinister Six,Harley Quinn,64,99,59,77
+Doctor Strange,Villain,Marvel,Psychic Abilities,Inhumans,Martian Manhunter,100,75,52,84
+Drax,Hero,Marvel,Flight,Avengers,Cable,86,52,89,45
+Constantine,Hero,DC,Martial Arts,Inhumans,Deadpool,90,62,88,91
+Venom,Villain,DC,Super Strength,Defenders,Hawkman,86,81,68,82
